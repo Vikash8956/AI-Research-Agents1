@@ -100,10 +100,6 @@ Purpose
 
 Its vibrant blue-purple gradient makes it the most noticeable interactive element on the page.
 
-
-
-
-
 ## 🔑 Environment Variables
 
 ### Backend (`backend/.env`)
