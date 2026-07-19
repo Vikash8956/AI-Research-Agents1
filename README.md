@@ -93,6 +93,7 @@ The navigation bar remains fixed at the top of the page and provides quick acces
 Two strategically placed buttons guide users toward different actions.
 
 Purpose
+
 ● User Registration
 ● Free Trial Access
 ● Increase Conversion Rate
