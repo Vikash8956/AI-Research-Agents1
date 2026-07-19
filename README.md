@@ -95,10 +95,10 @@ Two strategically placed buttons guide users toward different actions.
 
 Purpose
 
--● **User Registration**
--● **Free Trial Access**
--● **Increase Conversion Rate**
--● **Direct users to the dashboard after signup**
+- User Registration**
+- Free Trial Access
+- Increase Conversion Rate
+- Direct users to the dashboard after signup
 
 Its vibrant blue-purple gradient makes it the most noticeable interactive element on the page.
 
