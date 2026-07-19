@@ -107,7 +107,7 @@ Its vibrant blue-purple gradient makes it the most noticeable interactive elemen
   <img src="client/src/image no.02.png" alt="ResearchAI Banner" width="100%">
 </p>
 
-The Dashboard is the central workspace of the AI Research Agent platform, designed to provide users with a comprehensive overview of their research activities AI usage, reports and productivity metrics in a single interface. It serves as the primary control center where users can monitor research progress analyze performance manage documents and quickly access essential research tools.
+The Dashboard is the central workspace of the AI Research Agent platform designed to provide users with a comprehensive overview of their research activities AI usage, reports and productivity metrics in a single interface. It serves as the primary control center where users can monitor research progress analyze performance manage documents and quickly access essential research tools.
 
 ### 🖥 Dashboard Layout
 
@@ -126,7 +126,7 @@ Available Navigation Options
 - ⚙️ **Settings**
 
 
-### 🤖 AI Research Agent
+### 🧠 AI Research Agent
 <p align="center">
   <img src="client/src/image.png" alt="ResearchAI Banner" width="100%">
 </p>
@@ -224,6 +224,6 @@ The Research Activity Overview helps users to:
 - **Frontend** → Vercel: `cd client && vercel --prod`
 - **Backend** → Render: Set env vars in Render dashboard, connect GitHub repo
 - **Database** → MongoDB Atlas (free M0 cluster)
-- **AI** → IBM watsonx.ai (free trial available)
+  
 
 ---
