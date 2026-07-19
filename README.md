@@ -86,7 +86,8 @@ The Home Page is the landing page of the AI Research Agent platform. It is desig
 
 🧭 Navigation Bar
 
-The navigation bar remains fixed at the top of the page and provides quick access to all major sections of the website.
+The navigation bar remains fixed at the top of the page and provides quick access to all major sections of the website.     
+
 
 🎯 Call-to-Action Buttons
 
@@ -100,6 +101,54 @@ Purpose
 ● Direct users to the dashboard after signup
 
 Its vibrant blue-purple gradient makes it the most noticeable interactive element on the page.
+
+### 📉 Dashboard – AI Research Agent
+<p align="center">
+  <img src="client/src/image no.02.png" alt="ResearchAI Banner" width="100%">
+</p>
+
+The Dashboard is the central workspace of the AI Research Agent platform, designed to provide users with a comprehensive overview of their research activities, AI usage, reports, and productivity metrics in a single interface. It serves as the primary control center where users can monitor research progress, analyze performance, manage documents, and quickly access essential research tools.
+
+### 🖥 Dashboard Layout
+
+The dashboard is divided into multiple sections, each designed to provide specific information while maintaining a clean and organized interface.
+
+### 📌 Sidebar Navigation
+
+The left sidebar provides quick navigation across all major modules of the platform.
+
+Available Navigation Options
+● 🏠 Dashboard
+● 🔍 AI Research
+● 📚 Library
+● 📄 Reports
+● 🔖 Citations
+● ⚙️ Settings
+
+### 🤖 AI Usage Analytics
+
+A donut chart displays the distribution of AI requests across different language models.
+
+Example AI Models:
+
+● IBM Granite
+● GPT-4 Turbo
+● Claude
+● Other Models
+
+This section allows users to understand which AI model contributes most to their research workflow.
+
+### 📄 Recent Reports
+
+Users can quickly access recently generated reports directly from the dashboard.
+
+Each report displays:
+
+● Report title
+● Creation time
+● Quick access option
+
+This feature enables efficient report management without navigating to another page.
 
 ## 🔑 Environment Variables
 
@@ -143,11 +192,6 @@ Its vibrant blue-purple gradient makes it the most noticeable interactive elemen
 | GET | `/api/library` | JWT | Get saved papers |
 | DELETE | `/api/library/:id` | JWT | Delete saved paper |
 | GET | `/api/history` | JWT | Recent activity |
-| POST | `/api/report` | JWT | Generate full report |
-| GET | `/api/reports` | JWT | List reports |
-| GET | `/api/reports/:id` | JWT | Get single report |
-| POST | `/api/citation` | JWT | Generate citation formats |
-| GET | `/api/citations` | JWT | List citations |
 
 ---
 
@@ -168,7 +212,3 @@ docker-compose up --build
 - **AI** → IBM watsonx.ai (free trial available)
 
 ---
-
-## 📄 License
-
-MIT — Built with ❤️ using IBM Granite × watsonx.ai
