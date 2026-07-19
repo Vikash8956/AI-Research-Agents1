@@ -81,7 +81,48 @@ researchai/
 <p align="center">
   <img src="client/src/ima.png" alt="ResearchAI Banner" width="100%">
 </p>
-The Home Page is the landing page of the AI Research Agent platform. It is designed with a modern, futuristic UI that immediately communicates the platform's purpose—helping researchers, students, and professionals perform research faster using Artificial Intelligence.
+
+The Home Page is the landing page of the AI Research Agent platform. It is designed with a modern, futuristic UI that immediately communicates the platform's purpose—helping researchers students and professionals perform research faster using Artificial Intelligence.
+
+🧭 Navigation Bar
+
+The navigation bar remains fixed at the top of the page and provides quick access to all major sections of the website.
+
+🔹 Brand Logo
+
+The ResearchAI logo represents innovation intelligence and modern AI technology. It establishes a strong brand identity while maintaining a clean and professional appearance.
+
+🔹 Navigation Menu
+
+The navigation menu contains the following sections:
+
+Features – Explore all AI-powered functionalities available on the platform.
+How It Works – Learn the complete workflow of the AI Research Agent.
+Pricing – View subscription plans and premium features.
+Sign In – Secure login for existing users.
+
+🎯 Call-to-Action Buttons
+
+Two strategically placed buttons guide users toward different actions.
+
+Purpose
+● User Registration
+● Free Trial Access
+● Increase Conversion Rate
+● Direct users to the dashboard after signup
+
+Its vibrant blue-purple gradient makes it the most noticeable interactive element on the page.
+
+✨ Key Features Highlighted
+AI-powered research assistance
+Research paper search
+AI-generated summaries
+Academic report generation
+Citation management
+
+
+
+
 ## 🔑 Environment Variables
 
 ### Backend (`backend/.env`)
