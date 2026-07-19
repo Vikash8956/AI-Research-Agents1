@@ -82,7 +82,7 @@ researchai/
   <img src="client/src/ima.png" alt="ResearchAI Banner" width="100%">
 </p>
 
-The Home Page is the landing page of the AI Research Agent platform. It is designed with a modern, futuristic UI that immediately communicates the platform's purpose—helping researchers students and professionals perform research faster using Artificial Intelligence.
+The Home Page is the landing page of the AI Research Agent platform. It is designed with a modern futuristic UI that immediately communicates the platform's purpose—helping researchers students and professionals perform research faster using Artificial Intelligence.
 
 🧭 Navigation Bar
 
@@ -107,11 +107,11 @@ Its vibrant blue-purple gradient makes it the most noticeable interactive elemen
   <img src="client/src/image no.02.png" alt="ResearchAI Banner" width="100%">
 </p>
 
-The Dashboard is the central workspace of the AI Research Agent platform, designed to provide users with a comprehensive overview of their research activities, AI usage, reports, and productivity metrics in a single interface. It serves as the primary control center where users can monitor research progress, analyze performance, manage documents, and quickly access essential research tools.
+The Dashboard is the central workspace of the AI Research Agent platform, designed to provide users with a comprehensive overview of their research activities AI usage, reports and productivity metrics in a single interface. It serves as the primary control center where users can monitor research progress analyze performance manage documents and quickly access essential research tools.
 
 ### 🖥 Dashboard Layout
 
-The dashboard is divided into multiple sections, each designed to provide specific information while maintaining a clean and organized interface.
+The dashboard is divided into multiple sections each designed to provide specific information while maintaining a clean and organized interface.
 
 ### 📌 Sidebar Navigation
 
@@ -150,6 +150,29 @@ Each report displays:
 
 This feature enables efficient report management without navigating to another page.
 
+### 📉 Research Activity Overview
+
+The dashboard uses a multi-line chart to visualize research activities.
+
+The chart compares three important metrics:
+
+- **AI Requests** – Displays the number of requests sent to the AI assistant during each day.
+- **Reports Generated** – Shows how many AI-powered research reports were created.
+- **Research Sessions** – Represents the number of completed research sessions.
+
+Each metric is represented using a different colored line making it easy to compare performance across multiple days.
+
+### 📈 Benefits
+
+The Research Activity Overview helps users to:
+
+- Identify research patterns.
+- Measure daily productivity.
+- Compare AI usage over time.
+- Monitor report generation trends.
+- Improve overall research efficiency.
+- Track long-term progress using visual analytics.
+- 
 ## 🔑 Environment Variables
 
 ### Backend (`backend/.env`)
@@ -181,26 +204,12 @@ This feature enables efficient report management without navigating to another p
 | POST | `/api/register` | No | Create account, send OTP |
 | POST | `/api/verify-otp` | No | Verify email OTP |
 | POST | `/api/login` | No | Login, get JWT tokens |
-| POST | `/api/refresh` | Cookie | Refresh access token |
-| POST | `/api/logout` | Cookie | Logout, clear tokens |
 | GET | `/api/profile` | JWT | Get user profile |
 | PUT | `/api/profile` | JWT | Update profile |
-| POST | `/api/research` | JWT | Search arXiv papers |
-| POST | `/api/summarize` | JWT | AI summarize a paper |
-| POST | `/api/hypothesis` | JWT | Generate hypotheses |
 | POST | `/api/save` | JWT | Save paper to library |
 | GET | `/api/library` | JWT | Get saved papers |
 | DELETE | `/api/library/:id` | JWT | Delete saved paper |
 | GET | `/api/history` | JWT | Recent activity |
-
----
-
-## 🐳 Docker
-
-```bash
-# Copy .env files first, then:
-docker-compose up --build
-```
 
 ---
 
