@@ -77,7 +77,7 @@ researchai/
 ```
 
 ---
-### Home page 
+### 📈 AI Research Agent Home page 
 <p align="center">
   <img src="client/src/ima.png" alt="ResearchAI Banner" width="100%">
 </p>
