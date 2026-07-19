@@ -95,7 +95,7 @@ Two strategically placed buttons guide users toward different actions.
 
 Purpose
 
-- User Registration**
+- User Registration
 - Free Trial Access
 - Increase Conversion Rate
 - Direct users to the dashboard after signup
@@ -131,10 +131,10 @@ A donut chart displays the distribution of AI requests across different language
 
 Example AI Models:
 
-● **IBM Granite**
-● **GPT-4 Turbo**
-● **Claude**
-● **Other Models**
+- IBM Granite
+- GPT-4 Turbo
+- Claude
+- Other Models
 
 This section allows users to understand which AI model contributes most to their research workflow.
 
@@ -144,9 +144,9 @@ Users can quickly access recently generated reports directly from the dashboard.
 
 Each report displays:
 
-● Report title
-● Creation time
-● Quick access option
+- Report title
+- Creation time
+- Quick access option
 
 This feature enables efficient report management without navigating to another page.
 
