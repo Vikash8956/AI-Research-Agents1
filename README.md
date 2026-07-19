@@ -118,6 +118,7 @@ The dashboard is divided into multiple sections, each designed to provide specif
 The left sidebar provides quick navigation across all major modules of the platform.
 
 Available Navigation Options
+<br>
 ● 🏠 Dashboard
 ● 🔍 AI Research
 ● 📚 Library
