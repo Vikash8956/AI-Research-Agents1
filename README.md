@@ -150,6 +150,11 @@ Each report displays:
 
 This feature enables efficient report management without navigating to another page.
 
+### 🤖 AI Research Agent
+<p align="center">
+  <img src="client/src/ima.png" alt="ResearchAI Banner" width="100%">
+</p>
+
 ### 📉 Research Activity Overview
 
 The dashboard uses a multi-line chart to visualize research activities.
