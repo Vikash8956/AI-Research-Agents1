@@ -77,7 +77,10 @@ researchai/
 ```
 
 ---
-
+### Home page 
+<p align="center">
+  <img src="client/src/ima.png" alt="ResearchAI Banner" width="100%">
+</p>
 ## 🔑 Environment Variables
 
 ### Backend (`backend/.env`)
