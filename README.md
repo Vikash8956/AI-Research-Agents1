@@ -95,10 +95,10 @@ Two strategically placed buttons guide users toward different actions.
 
 Purpose
 
-● User Registration
-● Free Trial Access
-● Increase Conversion Rate
-● Direct users to the dashboard after signup
+-● **User Registration**
+-● **Free Trial Access**
+-● **Increase Conversion Rate**
+-● **Direct users to the dashboard after signup**
 
 Its vibrant blue-purple gradient makes it the most noticeable interactive element on the page.
 
@@ -118,13 +118,12 @@ The dashboard is divided into multiple sections, each designed to provide specif
 The left sidebar provides quick navigation across all major modules of the platform.
 
 Available Navigation Options
-<br>
-● 🏠 Dashboard
-● 🔍 AI Research
-● 📚 Library
-● 📄 Reports
-● 🔖 Citations
-● ⚙️ Settings
+- 🏠 **Dashboard**
+- 🔍 **AI Research**
+- 📚 **Library**
+- 📄 **Reports**
+- 🔖 **Citations**
+- ⚙️ **Settings**
 
 ### 🤖 AI Usage Analytics
 
@@ -132,10 +131,10 @@ A donut chart displays the distribution of AI requests across different language
 
 Example AI Models:
 
-● IBM Granite
-● GPT-4 Turbo
-● Claude
-● Other Models
+● **IBM Granite**
+● **GPT-4 Turbo**
+● **Claude**
+● **Other Models**
 
 This section allows users to understand which AI model contributes most to their research workflow.
 
