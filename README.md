@@ -172,7 +172,7 @@ The Research Activity Overview helps users to:
 - Monitor report generation trends.
 - Improve overall research efficiency.
 - Track long-term progress using visual analytics.
-- 
+
 ## 🔑 Environment Variables
 
 ### Backend (`backend/.env`)
