@@ -77,10 +77,11 @@ researchai/
 ```
 
 ---
-### 📈 AI Research Agent Home page 
+### 🏠 AI Research Agent – Home Page
 <p align="center">
   <img src="client/src/ima.png" alt="ResearchAI Banner" width="100%">
 </p>
+The Home Page is the landing page of the AI Research Agent platform. It is designed with a modern, futuristic UI that immediately communicates the platform's purpose—helping researchers, students, and professionals perform research faster using Artificial Intelligence.
 ## 🔑 Environment Variables
 
 ### Backend (`backend/.env`)
