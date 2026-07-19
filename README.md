@@ -125,6 +125,12 @@ Available Navigation Options
 - 🔖 **Citations**
 - ⚙️ **Settings**
 
+
+### 🤖 AI Research Agent
+<p align="center">
+  <img src="client/src/image.png" alt="ResearchAI Banner" width="100%">
+</p>
+The AI Research Agent is an intelligent web application designed to help researchers, students, and professionals analyze research papers using Artificial Intelligence. It automatically extracts insights generates summaries identifies key topics and creates detailed research reports from uploaded documents.
 ### 🤖 AI Usage Analytics
 
 A donut chart displays the distribution of AI requests across different language models.
@@ -149,11 +155,6 @@ Each report displays:
 - Quick access option
 
 This feature enables efficient report management without navigating to another page.
-
-### 🤖 AI Research Agent
-<p align="center">
-  <img src="client/src/ima.png" alt="ResearchAI Banner" width="100%">
-</p>
 
 ### 📉 Research Activity Overview
 
